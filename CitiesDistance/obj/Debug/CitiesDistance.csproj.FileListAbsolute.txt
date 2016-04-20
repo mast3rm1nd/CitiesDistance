@@ -1,0 +1,15 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\CitiesDistance.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\CitiesDistance.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\CitiesDistance.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\bin\Debug\World Ruler.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\bin\Debug\World Ruler.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\World Ruler_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\World Ruler_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\World Ruler.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\World Ruler.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CitiesDistance\CitiesDistance\obj\Debug\World Ruler.pdb
